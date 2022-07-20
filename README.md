@@ -1,4 +1,4 @@
-# child_education
+# Child Education
 This project about child education related information includes:
 
 - Objective 
